@@ -17,6 +17,4 @@
 #### Additional Documents:
 - link to Github Repo: https://github.com/paulwon2223/ExpressJS-NoteTaker
 <br>
-![img](./Develop/img/main.png)
 
-main.png
